@@ -1,2 +1,0 @@
-# denoexample
-Begin app
